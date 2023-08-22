@@ -17,3 +17,4 @@ class Cuadrado extends Figura2D{
         return lado*4;
     }
 }
+

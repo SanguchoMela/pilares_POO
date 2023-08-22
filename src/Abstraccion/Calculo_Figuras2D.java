@@ -12,3 +12,5 @@ public class Calculo_Figuras2D {
         System.out.println("Perimetro del triangulo: "+triangulo.calcularPerimetro());
     }
 }
+
+

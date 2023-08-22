@@ -19,3 +19,4 @@ public class Triangulo extends Figura2D {
         return lado*3;
     }
 }
+
